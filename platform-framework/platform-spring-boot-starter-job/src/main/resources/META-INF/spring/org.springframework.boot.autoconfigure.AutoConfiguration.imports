@@ -1,0 +1,2 @@
+com.plm.platform.framework.quartz.config.PlatformQuartzAutoConfiguration
+com.plm.platform.framework.quartz.config.PlatformAsyncAutoConfiguration

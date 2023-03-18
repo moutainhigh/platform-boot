@@ -1,0 +1,2 @@
+com.plm.platform.framework.datapermission.config.PlatformDataPermissionAutoConfiguration
+com.plm.platform.framework.datapermission.config.PlatformDeptDataPermissionAutoConfiguration

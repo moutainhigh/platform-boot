@@ -1,0 +1,2 @@
+com.plm.platform.framework.datasource.config.PlatformDataSourceAutoConfiguration
+com.plm.platform.framework.mybatis.config.PlatformMybatisAutoConfiguration

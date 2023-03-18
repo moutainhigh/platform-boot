@@ -1,0 +1,2 @@
+com.plm.platform.framework.tracer.config.PlatformTracerAutoConfiguration
+com.plm.platform.framework.tracer.config.PlatformMetricsAutoConfiguration

@@ -1,0 +1,2 @@
+com.plm.platform.framework.redis.config.PlatformRedisAutoConfiguration
+com.plm.platform.framework.redis.config.PlatformCacheAutoConfiguration

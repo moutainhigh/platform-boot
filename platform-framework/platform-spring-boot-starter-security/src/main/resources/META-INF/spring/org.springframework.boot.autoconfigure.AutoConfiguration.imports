@@ -1,0 +1,2 @@
+com.plm.platform.framework.security.config.PlatformSecurityAutoConfiguration
+com.plm.platform.framework.security.config.PlatformWebSecurityConfigurerAdapter

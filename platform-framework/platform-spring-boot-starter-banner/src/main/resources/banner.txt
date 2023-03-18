@@ -1,0 +1,3 @@
+Product Lifecycle Management
+Application Version: ${platform.info.version}
+Spring Boot Version: ${spring-boot.version}

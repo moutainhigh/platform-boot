@@ -1,0 +1,6 @@
+com.plm.platform.framework.apilog.config.PlatformApiLogAutoConfiguration
+com.plm.platform.framework.jackson.config.PlatformJacksonAutoConfiguration
+com.github.xiaoymin.knife4j.spring.configuration.Knife4jAutoConfiguration
+com.plm.platform.framework.swagger.config.PlatformSwaggerAutoConfiguration
+com.plm.platform.framework.web.config.PlatformWebAutoConfiguration
+com.plm.platform.framework.xss.config.PlatformXssAutoConfiguration

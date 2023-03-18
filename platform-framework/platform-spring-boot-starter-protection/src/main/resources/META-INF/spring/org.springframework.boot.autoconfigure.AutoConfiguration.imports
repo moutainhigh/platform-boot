@@ -1,0 +1,2 @@
+com.plm.platform.framework.idempotent.config.PlatformIdempotentConfiguration
+com.plm.platform.framework.lock4j.config.PlatformLock4jConfiguration
